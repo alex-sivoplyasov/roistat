@@ -24,6 +24,9 @@
         </div>
       </div>
     </div>
+    <div class="users__message" v-else>
+      Пока что нет пользователей...
+    </div>
   </div>
 </template>
 

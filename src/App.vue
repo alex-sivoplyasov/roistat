@@ -72,7 +72,6 @@ export default {
 
 .button {
   width: fit-content;
-  margin-left: auto;
   padding: 8px 16px;
   background: #FFFFFF;
   border-radius: 16px;
